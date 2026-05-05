@@ -2,7 +2,7 @@
 
 Aplicativo mobile de gerenciamento financeiro com design moderno.
 
-## Tecnologias
+## Tecnologias 
 - React 18 + TypeScript
 - Tailwind CSS v4
 - Motion (Framer Motion)
